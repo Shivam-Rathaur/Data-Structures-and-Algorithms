@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivam-Rathaur/dsa/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shivam-Rathaur/dsa/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shivam-Rathaur/dsa/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
