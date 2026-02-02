@@ -8,12 +8,14 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivam-Rathaur/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Shivam-Rathaur/dsa/tree/master/0054-spiral-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Shivam-Rathaur/dsa/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/Shivam-Rathaur/dsa/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivam-Rathaur/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivam-Rathaur/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Shivam-Rathaur/dsa/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/Shivam-Rathaur/dsa/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
