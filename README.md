@@ -1,6 +1,6 @@
 # Data-Structures-and-Algorithms
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# DSA Topics
 ## Array
 |  |
 | ------- |
