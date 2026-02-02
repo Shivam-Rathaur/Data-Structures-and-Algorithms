@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivam-Rathaur/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shivam-Rathaur/dsa/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shivam-Rathaur/dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
