@@ -10,6 +10,7 @@
 | [0410-split-array-largest-sum](https://github.com/Shivam-Rathaur/dsa/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Shivam-Rathaur/dsa/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-Rathaur/dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Shivam-Rathaur/dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [3637-trionic-array-i](https://github.com/Shivam-Rathaur/dsa/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shivam-Rathaur/dsa/tree/master/0050-powx-n) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Shivam-Rathaur/dsa/tree/master/1266-minimum-time-visiting-all-points) |
 ## Recursion
 |  |
 | ------- |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-Rathaur/dsa/tree/master/0977-squares-of-a-sorted-array) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Shivam-Rathaur/dsa/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
