@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivam-Rathaur/dsa/tree/master/0020-valid-parentheses) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Shivam-Rathaur/dsa/tree/master/2027-minimum-moves-to-convert-string) |
 ## Stack
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shivam-Rathaur/dsa/tree/master/0410-split-array-largest-sum) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Shivam-Rathaur/dsa/tree/master/2027-minimum-moves-to-convert-string) |
 ## Prefix Sum
 |  |
 | ------- |
