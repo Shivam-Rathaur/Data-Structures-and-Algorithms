@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shivam-Rathaur/dsa/tree/master/0050-powx-n) |
+| [0836-rectangle-overlap](https://github.com/Shivam-Rathaur/dsa/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shivam-Rathaur/dsa/tree/master/1266-minimum-time-visiting-all-points) |
 ## Recursion
 |  |
@@ -69,5 +70,6 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Shivam-Rathaur/dsa/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shivam-Rathaur/dsa/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
