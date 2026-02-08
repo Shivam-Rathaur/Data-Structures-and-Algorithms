@@ -25,6 +25,7 @@
 | [0020-valid-parentheses](https://github.com/Shivam-Rathaur/dsa/tree/master/0020-valid-parentheses) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Shivam-Rathaur/dsa/tree/master/2027-minimum-moves-to-convert-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Shivam-Rathaur/dsa/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3340-check-balanced-string](https://github.com/Shivam-Rathaur/dsa/tree/master/3340-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
