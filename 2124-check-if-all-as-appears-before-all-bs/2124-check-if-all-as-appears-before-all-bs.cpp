@@ -1,14 +1,8 @@
 class Solution {
 public:
     bool checkString(string s) {
-        int i = 0;
-        while(i < s.size()){
-            if(s[i] == 'b') break;
-            else i++;
-        }
-        while(i < s.size()){
-            if(s[i] == 'a') return false;
-            else i++;
+        for(int i=0 ; i<s.size()-1 ; i++){
+            if(s[i]=='b' && s[i+1]=='a') return false;
         }
         return true;
     }
