@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivam-Rathaur/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivam-Rathaur/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Shivam-Rathaur/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shivam-Rathaur/dsa/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivam-Rathaur/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/Shivam-Rathaur/dsa/tree/master/0410-split-array-largest-sum) |
@@ -45,6 +46,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shivam-Rathaur/dsa/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Shivam-Rathaur/dsa/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -76,4 +78,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Shivam-Rathaur/dsa/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shivam-Rathaur/dsa/tree/master/1266-minimum-time-visiting-all-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shivam-Rathaur/dsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
