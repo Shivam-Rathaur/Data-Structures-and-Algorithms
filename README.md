@@ -13,6 +13,7 @@
 | [0704-binary-search](https://github.com/Shivam-Rathaur/dsa/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-Rathaur/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shivam-Rathaur/dsa/tree/master/1266-minimum-time-visiting-all-points) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Shivam-Rathaur/dsa/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3637-trionic-array-i](https://github.com/Shivam-Rathaur/dsa/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam-Rathaur/dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Shivam-Rathaur/dsa/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Geometry
 |  |
 | ------- |
