@@ -21,6 +21,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivam-Rathaur/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivam-Rathaur/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivam-Rathaur/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Shivam-Rathaur/dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0410-split-array-largest-sum](https://github.com/Shivam-Rathaur/dsa/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Shivam-Rathaur/dsa/tree/master/0704-binary-search) |
 ## String
@@ -84,4 +85,16 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivam-Rathaur/dsa/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Shivam-Rathaur/dsa/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Shivam-Rathaur/dsa/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Shivam-Rathaur/dsa/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
